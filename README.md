@@ -1,4 +1,4 @@
-###Bet Guess
+### Bet Guess
 
 This project offers a user to give his prediction of the results of a football, handball or basketball match.
 
